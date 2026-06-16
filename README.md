@@ -1,84 +1,133 @@
-🚚 Fourze – Plataforma Inteligente para Mudanças
-📌 Sobre o Projeto
+<div align="center">
 
-O Fourze é uma plataforma web criada para conectar pessoas que precisam realizar mudanças residenciais ou comerciais a motoristas e empresas de transporte de forma rápida, segura e organizada.
+# 🚚 Fourze
 
-O projeto surgiu da dificuldade que muitas pessoas enfrentam ao procurar caminhões confiáveis para transportar seus bens, além da falta de transparência sobre preços, disponibilidade e qualidade do serviço.
+### Conectando sua mudança ao transporte certo
 
-O Fourze busca simplificar esse processo, oferecendo uma experiência digital que gera confiança tanto para clientes quanto para transportadores.
+<img src="https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen">
+<img src="https://img.shields.io/badge/projeto-acad%C3%AAmico-blue">
+<img src="https://img.shields.io/badge/HTML-CSS-orange">
 
-🎯 Problema
+</div>
 
-Realizar uma mudança pode ser um processo estressante devido a diversos fatores:
+---
 
-Dificuldade em encontrar transportadores confiáveis;
-Falta de informações sobre preços e disponibilidade;
-Comunicação ineficiente entre cliente e motorista;
-Ausência de avaliações e histórico dos prestadores;
-Insegurança quanto ao transporte dos bens.
-💡 Solução
+## 📌 Sobre o Projeto
 
-O Fourze oferece uma plataforma onde clientes podem solicitar serviços de mudança e encontrar transportadores disponíveis de maneira simples e segura.
+O **Fourze** é um site criado para facilitar o processo de mudanças residenciais e comerciais, conectando clientes que precisam transportar seus móveis e pertences a motoristas e prestadores de serviço confiáveis.
 
-Através do sistema, os usuários conseguem:
+A ideia surgiu a partir de um problema comum: muitas pessoas têm dificuldade em encontrar caminhões ou fretes seguros, organizados e acessíveis para realizar mudanças.
 
-Solicitar mudanças;
-Encontrar motoristas disponíveis;
-Comparar opções de transporte;
-Acompanhar informações do serviço;
-Avaliar os prestadores após a conclusão da mudança.
-👥 Público-Alvo
-Clientes
-Pessoas que estão mudando de residência;
-Pequenos empreendedores;
-Escritórios e empresas;
-Estudantes em mudança de endereço.
-Transportadores
-Caminhoneiros autônomos;
-Freteiros;
-Empresas de mudanças;
-Prestadores de serviços logísticos.
-🚀 Funcionalidades
-Para Clientes
-Cadastro e login;
-Solicitação de mudança;
-Escolha do local de origem e destino;
-Visualização de motoristas disponíveis;
-Histórico de solicitações;
-Avaliação dos serviços prestados.
-Para Motoristas
-Cadastro profissional;
-Gerenciamento de solicitações;
-Aceitação ou recusa de serviços;
-Histórico de viagens;
-Avaliações dos clientes.
-🔒 Diferenciais
-Plataforma focada exclusivamente em mudanças;
-Processo simples e intuitivo;
-Maior segurança para clientes e motoristas;
-Transparência nas avaliações;
-Facilidade de comunicação entre as partes.
-🛠️ Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript
-Canva (Apresentações e identidade visual)
-📈 Objetivos Futuros
-Rastreamento em tempo real;
-Integração com mapas;
-Sistema de pagamento online;
-Chat interno;
-Aplicativo para Android e iOS;
-Sistema de orçamento automático.
-📚 Metodologia
+---
 
-O desenvolvimento do Fourze seguiu conceitos de:
+## 🎯 Problema
 
-Design Thinking;
-UX/UI Design;
-Levantamento de requisitos;
-Prototipação;
-Desenvolvimento Web.
-👨‍💻 Equipe
+Realizar uma mudança pode ser complicado por causa de fatores como:
 
-Projeto acadêmico desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas com o objetivo de aplicar conhecimentos de tecnologia na solução de problemas reais do cotidiano.
+- Dificuldade para encontrar motoristas confiáveis;
+- Falta de organização no processo de mudança;
+- Pouca transparência sobre valores e disponibilidade;
+- Insegurança na contratação do serviço;
+- Comunicação ruim entre cliente e motorista.
+
+---
+
+## 💡 Solução
+
+O **Fourze** propõe uma plataforma simples e intuitiva onde o cliente pode solicitar uma mudança e encontrar motoristas disponíveis para realizar o serviço.
+
+A plataforma busca oferecer mais praticidade, segurança e confiança durante todo o processo.
+
+---
+
+## 👥 Público-Alvo
+
+### Clientes
+
+- Pessoas que estão mudando de casa;
+- Famílias;
+- Estudantes;
+- Pequenos empreendedores;
+- Empresas e escritórios.
+
+### Motoristas
+
+- Freteiros autônomos;
+- Caminhoneiros;
+- Empresas de mudança;
+- Prestadores de serviço logístico.
+
+---
+
+## ⚙️ Funcionalidades
+
+- Cadastro de usuários;
+- Cadastro de motoristas;
+- Solicitação de mudança;
+- Informações de origem e destino;
+- Visualização de serviços disponíveis;
+- Avaliação dos motoristas;
+- Interface simples e fácil de usar.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</div>
+
+---
+
+## 📱 Interface do Projeto
+
+O site foi pensado para ser:
+
+- Simples;
+- Intuitivo;
+- Responsivo;
+- Acessível;
+- Fácil de navegar.
+
+---
+
+## 🚀 Objetivos Futuros
+
+- Integração com mapas;
+- Sistema de orçamento automático;
+- Chat entre cliente e motorista;
+- Rastreamento da mudança;
+- Sistema de pagamento;
+- Aplicativo mobile.
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento do Fourze, foram trabalhados conceitos de:
+
+- Desenvolvimento Web;
+- UX/UI Design;
+- Levantamento de requisitos;
+- Organização de projeto;
+- Solução de problemas reais;
+- Trabalho em equipe.
+
+---
+
+## 👨‍💻 Equipe
+
+Projeto desenvolvido por estudantes de **Análise e Desenvolvimento de Sistemas**, com o objetivo de aplicar conhecimentos de tecnologia na criação de uma solução útil para o dia a dia.
+
+---
+
+<div align="center">
+
+### 🚚 Fourze  
+**Sua mudança com mais praticidade, segurança e confiança.**
+
+</div>
