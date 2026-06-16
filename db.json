@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "nome": "teste claudio",
+      "cpf": "123.123.123.123",
+      "telefone": "987.987.987",
+      "email": "meu@mail",
+      "endereco": "rua da silva",
+      "id": "ATLPvk8XvrM"
+    },
+    {
+      "nome": "teste jakes",
+      "cpf": "teste jakes",
+      "telefone": "teste jakes",
+      "email": "meuemail@hotmail.com",
+      "endereco": "teste jakes",
+      "id": "wrDT88GSp6c"
+    },
+    {
+      "nome": "nyko da siva",
+      "cpf": "123123123123",
+      "telefone": "8188888888888",
+      "email": "email@hotmail.com",
+      "endereco": "",
+      "id": "2iAx19TLh1A"
+    }
+  ],
+  "motoristas": [
+    {
+      "id": "1",
+      "nome": "Carlos",
+      "foto": "../assets/img/carlos1.png",
+      "veiculo": "Caminhão",
+      "fotoVeiculo": "../assets/img/Caminhao branco.jpg",
+      "avaliacao": "4.8",
+      "preco": "R$ 1.250,00",
+      "cnh": "12345678901",
+      "telefone": "(11) 98888-7777",
+      "placa": "ABC-1234",
+      "regiao": "norte"
+    },
+    {
+      "id": "2",
+      "nome": "José",
+      "foto": "../assets/img/jose2.png",
+      "veiculo": "Caminhão",
+      "fotoVeiculo": "../assets/img/caminhao branco teste.jpg",
+      "avaliacao": "4.0",
+      "preco": "R$ 1.000,00",
+      "cnh": "98765432100",
+      "telefone": "(11) 97777-6666",
+      "placa": "DEF-5678",
+      "regiao": "sul"
+    },
+    {
+      "id": "3",
+      "nome": "Paula",
+      "foto": "../assets/img/paula3.png",
+      "veiculo": "Caminhonete",
+      "fotoVeiculo": "../assets/img/caminhonete.jpg",
+      "avaliacao": "5.0",
+      "preco": "R$ 800,00",
+      "cnh": "11122233344",
+      "telefone": "(11) 96666-5555",
+      "placa": "GHI-9012",
+      "regiao": "leste"
+    },
+    {
+      "id": "4",
+      "nome": "Jessica",
+      "foto": "../assets/img/jessica.png",
+      "veiculo": "Caminhão",
+      "fotoVeiculo": "../assets/img/Caminhao branco.jpg",
+      "avaliacao": "4.3",
+      "preco": "R$ 500,00",
+      "cnh": "55566677788",
+      "telefone": "(11) 95555-4444",
+      "placa": "JKL-3456",
+      "regiao": "oeste"
+    }
+  ],
+  "agendamentos": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
